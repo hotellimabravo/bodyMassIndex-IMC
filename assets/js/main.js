@@ -30,7 +30,7 @@ form.addEventListener('submit', function(e) {
             'Sobrepeso',
             'Obesidade Grau I',
             'Obesidade Grau II',
-            'VAI MORRER NOVO! - OBESIDADE MÓRBIDA'
+            'Obesidade Grau III - MÓRBIDA'
         ];
 
         if (imc >= 39.9) return nivel[5];
